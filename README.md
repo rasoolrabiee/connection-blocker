@@ -32,9 +32,10 @@ Usage :
   Add a Rule: Click the "Add Rule" button to block the selected application.
   Remove a Rule: Select a rule from the list and click "Remove" to delete it.
   Scroll through Rules: Use the scrollbar to view all the rules if the list is long.
-
-
+  
 screenshot :
+
+
 ![connection-blocker](https://github.com/user-attachments/assets/314d4fe7-f3bf-4d86-92a0-6b3daf014611)
 
 
