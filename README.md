@@ -42,7 +42,7 @@ screenshot :
 
 If you have questions, need help, or anything else :) , contact me at:
 
-[Telegram](https://t.me/RasoolRabiee)
-[LinkedIn](https://www.linkedin.com/in/rasoolrabiee/)
-Email: rasool.rr.1313@gmail.com
+- [Telegram](https://t.me/RasoolRabiee)
+- [LinkedIn](https://www.linkedin.com/in/rasoolrabiee/)
+- Email: rasool.rr.1313@gmail.com
 
