@@ -35,8 +35,8 @@ Usage :
   
 screenshot :
 
+![connection-blocker](https://github.com/user-attachments/assets/1873270c-1d6a-4e13-ae03-290de27d174e)
 
-![connection-blocker](https://github.com/user-attachments/assets/314d4fe7-f3bf-4d86-92a0-6b3daf014611)
 
 
 
